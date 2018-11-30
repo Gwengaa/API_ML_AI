@@ -106,7 +106,7 @@ Final project product requirements
 
 
 ### APP效果图  
-* [原型效果链接]()
+* [原型效果链接](https://gwengaa.github.io/prototype/)
 
 ![Image text](./原型1.png)
 ![Image text](./原型2.png)
