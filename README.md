@@ -74,12 +74,12 @@ Final project product requirements
 
 
 ## Questions
+
 |    Question     |       Outcome     |
 | ------------- |:-------------:|
-|   如何实现输出植物结果与地图的联系      |      |  
+|   如何实现输出植物结果与地图的联系？      |      |  
 |   百度地图如何显示附近人识图环境      |      | 
 |   如何实现识别植物的类似植物推荐      |      | 
-
 
 
 ## Not doing
