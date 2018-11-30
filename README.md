@@ -34,6 +34,7 @@ Final project product requirements
 
 
 ## Flows
+![Image text](./流程图.jpg)
 
 ## Exception Flows(异常流程)
 * 用户阅读识别植物信息后不会点击相关植物推荐
