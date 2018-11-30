@@ -61,7 +61,7 @@ Final project product requirements
 * 分享植物的页面需要简洁（植物定位、植物图片、心情分享）
 
 ## Requirements
-|         |    Title     |       User story     |      Importance     |      Notes     |
+|         |    Title     |       User story     |      Importance     |      Notes     |  
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | 1        |   输出植物名称后，想知道类似植物植物信息    | 需要点击知道更多 | Must Have |  |  
 | 2        |   输出植物名称后，想查看附近的人的识图环境    | 需要点击查看更多 | Must Have |  |  
