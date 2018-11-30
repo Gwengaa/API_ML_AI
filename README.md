@@ -67,6 +67,13 @@ Final project product requirements
 | 2        |   输出植物名称后，想查看附近的人的识图环境    | 需要点击查看更多 | Must Have |  |  
 | 3        |   输出植物名称后，想分享出去    | 需要点击分享 | Must Have |  |  
 
+## Requirements
+|         |    Title     |       User story     |      Importance     |      Notes     |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| 1        |   输出菜名后，想知道相关店铺    | 需要点击店铺推荐 | Must Have |  |  
+| 1        |   输出菜名后，想知道相关店铺    | 需要点击店铺推荐 | Must Have |  |  
+| 1        |   输出菜名后，想知道相关店铺    | 需要点击店铺推荐 | Must Have |  |  
+| 1        |   输出菜名后，想知道相关店铺    | 需要点击店铺推荐 | Must Have |  |  
 
 ## User interaction and design  
 ![Image text](./原型1.png)
