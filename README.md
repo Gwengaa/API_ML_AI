@@ -71,7 +71,9 @@ Final project product requirements
 
 
 ## User interaction and design  
-![Image text](./pro.jpg)
+![Image text](./原型1.png)
+![Image text](./原型2.png)
+![Image text](./原型3.png)
 
 
 ## Questions
