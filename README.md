@@ -106,9 +106,11 @@ Final project product requirements
 
 
 ### APP效果图  
-* [原型效果链接](https://kkrrystal2.github.io/prototype/)
+* [原型效果链接]()
 
-![Image text](./pro.jpg)
+![Image text](./原型1.png)
+![Image text](./原型2.png)
+![Image text](./原型3.png)
 
 ### 功能
 * 识别拍摄的植物图片
@@ -124,9 +126,6 @@ Final project product requirements
 * 可拍照识别植物  
 * 可查看相关植物信息
 * 分享所拍摄的植物图片
-* 目前进度  
-
-![Image text](./目前进度.gif)
 
 
 ### 待解决
