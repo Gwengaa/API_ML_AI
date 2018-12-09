@@ -87,13 +87,14 @@ Final project product requirements
 * 分享之后不领取点亮的濒危/稀有植物碎片
 
 ### 产品框架图
+![Image text](./产品框架图.jpg)
 
 ### 交互需求 Interaction requirements
 * 扫描植物需要有直接并且明显的入口
 * 用户阅读植物信息的界面设计需要简单
 * 推荐相关类似植物的页面需要轻快，不要弹出霸占整个屏幕，不要给予用户有阅读压力
 * 分享植物的页面需要简洁（植物定位、植物图片、心情分享）
-* 推荐的濒临灭绝/稀有植物的信息需要吸引用户眼球，让用户有想点进去的冲动，推荐弹框可以
+* 推荐的濒临灭绝/稀有植物的信息需要吸引用户眼球，让用户有想点进去的冲动，推荐弹框可以更为简洁或可爱
 
 ### 产品原型  
 ![Image text](./原型1.png)
@@ -170,11 +171,11 @@ Final project product requirements
 * 百度api准确度<br>
 ![Image text](./百度api比较.jpg)
 
-* 百度api价格
-![Image text](./百度价格.png)
-
 * 阿里api准确度
 ![Image text](./阿里api比较.png)
+
+* 百度api价格
+![Image text](./百度价格.png)
 
 * 阿里api价格
 ![Image text](./阿里价格.png)
