@@ -136,7 +136,8 @@ Final project product requirements
 ### 代码展示
 * [原代码链接](https://gwengaa.github.io/prototype/)
 
-![Image text](./栀子花.png)
+![Image text](./栀子花.jpg)
+
 * 百度api
 ![Image text](./百度api.png)
 
@@ -144,8 +145,25 @@ Final project product requirements
 ![Image text](./阿里api3.png)
 
 * 阿里api（杂草类）
-![Image text](./狗尾巴草.png)
+![Image text](./狗尾巴草.jpg)
 ![Image text](./阿里api4.png)
+
+### API调用比较
+
+* 百度api
+![Image text](./百度api比较.jpg)
+![Image text](./百度价格.png)
+
+* 阿里api
+![Image text](./阿里api比较.png)
+![Image text](./阿里价格.png)
+
+|         |       百度植物识别api     |       阿里花伴侣智能植物识别api     |      
+| ------------- |:-------------:|:-------------:|
+|   准确度      |      |   ✔   |    
+|   价格      |   ✔   |       |
+|   备注      |   由于识别的精准度对于本产品有影响，故在综合评估下将选择阿里花伴侣智能植物识别api；若精准度对本产品无影响将会选择价格更实惠的百度植物识别api        |
+
 
 ### 已实现的功能  
 * 可拍照识别植物  
