@@ -5,7 +5,7 @@ Final project product requirements
 |         |            |
 | ------------- |:-------------:|
 | Target release     | 未定 |
-| Epic      |  植物识别与植物推荐   |
+| Epic      |  植物识别之“植物地图”   |
 | Document status | 已开始      |
 | Designer        | 靳诗雅 |
 | Developer       | 靳诗雅 |
@@ -16,6 +16,7 @@ Final project product requirements
 * 随时随地，拿起手机，满足用户想要知道植物名称、鲜花花语名字的好奇心，让你轻松变身植物专家。
 * 并通过查询得到的结果，能“知道更多”，在识别眼前植物的同时，并将获得类似植物的推荐信息.
 * 并让用户可以分享所见植物，最终形成个人植物地图
+* 增加濒临灭绝植物小知识,让大家关注稀有植物
 
 
 ## Background and strategic fit
@@ -73,8 +74,8 @@ Final project product requirements
 |         |    Title     |       User story     |      Importance     |      Notes     |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | 1        |   输出植物名称后，想知道类似植物植物信息    | 需要点击知道更多 | Must Have |  |  
-| 2        |   输出植物名称后，想查看附近的人的识图环境    | 需要点击查看更多 | Must Have |  |  
-| 3        |   输出植物名称后，想分享出去    | 需要点击分享 | Must Have |  |  
+| 2        |   输出植物图片后，想分享出去从而打卡形成植物地图    | 需要点击分享 | Must Have |  |  
+| 3        |   每分享一次将点亮一个濒临灭绝植物/稀有植物的卡片,并获取其信息    | 需要点击查看 | Must Have |  |  
 
 
 ## User interaction and design  
@@ -87,13 +88,14 @@ Final project product requirements
 
 |    Question     |       Outcome     |   
 | ------------- |:-------------:|
-|   如何实现输出植物结果与地图的联系？      |      |  
-|   百度地图如何显示附近人识图环境      |      | 
-|   如何实现识别植物的类似植物推荐      |      | 
+|   如何实现输出植物结果与地图的联系？      |   需要使用高德地图api   |  
+|   如何精确识别植物的品种      |   需要百度植物识别api与阿里花伴侣智能植物识别api   | 
+|   如何收集濒临灭绝植物/稀有植物的信息      |   暂时Not doing   | 
+|   如何实现识别植物的类似植物推荐      |   暂时Not doing   | 
 
 
 ## Not doing
-* 推荐系统.  
+* 推荐系统：推荐与识别植物类似的植物
 
 ## Nurture plan
 ### 前期
@@ -123,17 +125,32 @@ Final project product requirements
 * 识别拍摄的植物图片
 * 介绍相关植物的信息（分享附近的人的识图环境，可以快速发现周边花卉，欣赏植物景点）  
 * 可推荐相关植物信息（如植物识别为红玫瑰，则推荐其他白玫瑰、粉玫瑰、蓝玫瑰的信息）
+* 通过分享拍摄的植物图片进行打卡从而形成个人的植物地图
 
 
-### 用到的API
-* 百度植物识别API  
-* 百度地图API
+### 调用的API
+* 百度细粒度图像识别—植物识别API  
+* 阿里云花伴侣智能植物识别API
+* 高德地图API
+
+### 代码展示
+* [原代码链接](https://gwengaa.github.io/prototype/)
+
+![Image text](./栀子花.png)
+* 百度api
+![Image text](./百度api.png)
+
+* 阿里api
+![Image text](./阿里api3.png)
+
+* 阿里api（杂草类）
+![Image text](./狗尾巴草.png)
+![Image text](./阿里api4.png)
 
 ### 已实现的功能  
 * 可拍照识别植物  
 * 可查看相关植物信息
 * 分享所拍摄的植物图片
-
 
 ### 待解决
 * 植物和相关植物推荐不能实现联动    
