@@ -1,4 +1,4 @@
-# API_ML_AI 植物识别之个人“植物地图”
+# API_ML_AI 植物识别之“植物地图”
 Final project product requirements
 
 
