@@ -33,24 +33,31 @@ Final project product requirements
 * 主要是针对图片中最突出的植物品种作为识别，并介绍该植物的名称、属性等信息.（如植物识别玫瑰，则介绍玫瑰花语、玫瑰种植需知等，并且可以推荐白玫瑰、蓝玫瑰等类似植物信息）
 * 见到喜欢的植物想要分享出去，通过打开不同地方不同植物的分享，形成自己的植物地图.
 
+## User intercaion and design
 
-## Flows
-![Image text](./流程图.jpg)
-
-## Exception Flows(异常流程)
-* 用户阅读识别植物信息后不会点击相关植物推荐
-* 用户并没有分享所拍摄植物图片，无法提供拍摄照片定位
-
-## 表现分析
-### 输入:
+### 表现分析
+#### 输入:
+* 拍摄植物
 * 植物的照片
 * 植物名称
 
-### 输出:
+#### 输出:
 * 植物相关信息
 * 类似植物推荐
+* 分享形成个人植物地图
+* 濒临灭绝/稀有植物信息知识推荐
 
-## User artefacts
+### 产品流程图 Flows
+![Image text](./流程图.jpg)
+
+### 异常流程 Exception Flows
+* 用户阅读识别植物信息后不会点击相关植物推荐
+* 用户并没有分享所拍摄植物图片，无法提供拍摄照片定位
+
+### 产品框架图
+
+
+### User artefacts
 * 用户目标：通过拍摄一种植物图片可获得此类似植物的信息，举一反三，获取更多植物知识，发现世界之美，分享所见植物，打卡不同地方的不同植物，形成个人植物地图
 * 5why：
 
@@ -136,26 +143,28 @@ Final project product requirements
 ### 代码展示
 * [原代码链接](https://github.com/Gwengaa/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.ipynb)
 
-![Image text](./栀子花.jpg)
-
-* 百度api
+* 百度ap
 ![Image text](./百度api.png)
 
 * 阿里api
 ![Image text](./阿里api3.png)
 
 * 阿里api（杂草类）
-![Image text](./狗尾巴草.jpg)
+
 ![Image text](./阿里api4.png)
 
 ### API调用比较
 
-* 百度api
+* 百度api准确度<br>
 ![Image text](./百度api比较.jpg)
+
+* 百度api价格
 ![Image text](./百度价格.png)
 
-* 阿里api
+* 阿里api准确度
 ![Image text](./阿里api比较.png)
+
+* 阿里api价格
 ![Image text](./阿里价格.png)
 
 |         |       百度植物识别api     |       阿里花伴侣智能植物识别api     |      
