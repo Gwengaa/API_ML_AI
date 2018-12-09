@@ -134,7 +134,7 @@ Final project product requirements
 * 高德地图API
 
 ### 代码展示
-* [原代码链接](https://gwengaa.github.io/prototype/)
+* [原代码链接](https://github.com/Gwengaa/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.ipynb)
 
 ![Image text](./栀子花.jpg)
 
