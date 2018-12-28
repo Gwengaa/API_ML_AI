@@ -205,7 +205,10 @@ Questions|Qutcome
 * 人工智能概率性
   - 用户上传的植物图片，可能会含有多种植物，并且可能会由于泛化能力弱或者图片不清晰，导致植物检测出现错误。但我们主要是针对图片中最突出的植物品种作为识别，我尝试上传了一张杂草的照片，其中狗尾巴草最为明显，阿里智能植物识别api可识别出狗尾巴草准确度为%98.94。<br>
 
-<img src="狗尾巴草.jpg" width="701.989" hegiht="483.991" div align="center"><br>
+<div style="align: center">
+<img src="狗尾巴草.jpg"/>
+</div><br>
+
 ![Image text](./阿里api4.png)
 
 ### 已实现的功能  
