@@ -160,9 +160,11 @@ Questions|Qutcome
 * [原代码链接](https://github.com/Gwengaa/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.ipynb)
 
 * 百度api<br>
+
 ![Image text](./百度api.png)
 
 * 阿里api
+
 ![Image text](./阿里api3.png)
 
 * 阿里api（杂草类）
@@ -172,16 +174,21 @@ Questions|Qutcome
 ### API调用比较
 
 * 百度api准确度<br>
+
 ![Image text](./百度api比较.jpg)
 
 * 阿里api准确度
+
 ![Image text](./阿里api比较.png)
 
 * 百度api价格
+
 ![Image text](./百度价格.png)
 
 * 阿里api价格
+
 ![Image text](./阿里价格.png)
+
 
 * 对比分析
 
@@ -198,7 +205,7 @@ Questions|Qutcome
 * 人工智能概率性
   - 用户上传的植物图片，可能会含有多种植物，并且可能会由于泛化能力弱或者图片不清晰，导致植物检测出现错误。但我们主要是针对图片中最突出的植物品种作为识别，我尝试上传了一张杂草的照片，其中狗尾巴草最为明显，阿里智能植物识别api可识别出狗尾巴草准确度为%98.94。<br>
 
-<img src="狗尾巴草.jpg" width="500" hegiht="313" align=center /><br>
+<img src="狗尾巴草.jpg" width="701.989" hegiht="483.991" div align="center"><br>
 ![Image text](./阿里api4.png)
 
 ### 已实现的功能  
