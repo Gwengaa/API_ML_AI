@@ -158,40 +158,48 @@ Questions|Qutcome
 ### 调用的API
 * 百度细粒度图像识别—植物识别API  
 * 阿里云花伴侣智能植物识别API
+* 百度语音合成API
 * 高德地图API（Not doing）
 
 ### 代码展示
-* [原代码链接](https://github.com/Gwengaa/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.ipynb)
+* [植物识别代码链接](https://github.com/Gwengaa/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.ipynb)
 
-* 百度api<br>
+* [语音合成代码链接](https://github.com/Gwengaa/API_ML_AI/blob/master/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.ipynb)
+
+* 百度植物识别API<br>
 
 ![Image text](./百度api.png)
 
-* 阿里api
+* 阿里云花伴侣智能植物识别API
 
 ![Image text](./阿里api3.png)
 
-* 阿里api（杂草类）
+* 阿里云花伴侣智能植物识别API（杂草类）
 
 ![Image text](./阿里api4.png)
 
 ### API调用比较
 
-* 百度api准确度<br>
+* 百度植物识别API准确度<br>
 
 ![Image text](./百度api比较.jpg)
 
-* 阿里api准确度
+* 阿里云花伴侣智能植物识别API准确度
 
 ![Image text](./阿里api比较.png)
 
-* 百度api价格
+* 百度植物识别API价格
 
 ![Image text](./百度价格.png)
 
-* 阿里api价格
+* 阿里云花伴侣智能植物识别API价格
 
 ![Image text](./阿里价格.png)
+
+
+* 百度语音合成API
+
+![Image text](./语音合成api.png)
 
 
 * 对比分析
